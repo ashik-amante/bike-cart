@@ -1,0 +1,18 @@
+ a.active{
+    background-color:  rgb(68, 163, 68) ;
+    outline-color: blueviolet;
+    color: white;
+    font-weight: 700;
+    outline-color: yellow;
+    font-size: 17px;
+    padding: 4px 10px;
+    border-radius: 5px;
+    
+
+}
+a.active:hover{
+    background-color: green;
+}
+ nav a {
+    margin-right: 20px;
+ }

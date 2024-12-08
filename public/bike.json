@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "bikeName": "Yamaha YZF R15",
+      "price": 1200,
+      "image": " https://i.ibb.co.com/RgrPT7d/pexels-romanp-34006.jpg",
+      "bikeDetails": {
+        "cc": 150,
+        "producer": "Yamaha",
+        "country": "Japan",
+        "mileage": "45 km/l",
+        "model": "YZF R15",
+        "fuelType": "Petrol",
+        "topSpeed": "130 km/h"
+      }
+    },
+    {
+      "id": 2,
+      "bikeName": "Bajaj Pulsar 180",
+      "price": 1400,
+      "image": " https://i.ibb.co.com/RgrPT7d/pexels-romanp-34006.jpg",
+      "bikeDetails": {
+        "cc": 180,
+        "producer": "Bajaj",
+        "country": "India",
+        "mileage": "40 km/l",
+        "model": "Pulsar 180",
+        "fuelType": "Petrol",
+        "topSpeed": "120 km/h"
+      }
+    },
+    {
+      "id": 3,
+      "bikeName": "Bajaj Pulsar 180",
+      "price": 1400,
+      "image": " https://i.ibb.co.com/RgrPT7d/pexels-romanp-34006.jpg",
+      "bikeDetails": {
+        "cc": 180,
+        "producer": "Bajaj",
+        "country": "India",
+        "mileage": "40 km/l",
+        "model": "Pulsar 180",
+        "fuelType": "Petrol",
+        "topSpeed": "120 km/h"
+      }
+    },
+    {
+      "id": 4,
+      "bikeName": "TVS Sport",
+      "price": 800,
+      "image": "https://i.ibb.co.com/QjnD7R1/pexels-gijs-coolen-1325695-2549941.jpg",
+      "bikeDetails": {
+        "cc": 100,
+        "producer": "TVS",
+        "country": "India",
+        "mileage": "70 km/l",
+        "model": "Sport",
+        "fuelType": "Petrol",
+        "topSpeed": "90 km/h"
+      }
+    },
+    {
+      "id": 5,
+      "bikeName": "Kawasaki Ninja 250",
+      "price": 2000,
+      "image": "https://i.ibb.co.com/QjnD7R1/pexels-gijs-coolen-1325695-2549941.jpg",
+      "bikeDetails": {
+        "cc": 250,
+        "producer": "Kawasaki",
+        "country": "Japan",
+        "mileage": "30 km/l",
+        "model": "Ninja 250",
+        "fuelType": "Petrol",
+        "topSpeed": "180 km/h"
+      }
+    },
+    {
+      "id": 6,
+      "bikeName": "KTM Duke 200",
+      "price": 1600,
+      "image": " https://i.ibb.co.com/RgrPT7d/pexels-romanp-34006.jpg",
+      "bikeDetails": {
+        "cc": 200,
+        "producer": "KTM",
+        "country": "Austria",
+        "mileage": "35 km/l",
+        "model": "Duke 200",
+        "fuelType": "Petrol",
+        "topSpeed": "140 km/h"
+      }
+    },
+    {
+      "id": 7,
+      "bikeName": "BMW G 310 R",
+      "price": 3000,
+      "image": " https://i.ibb.co.com/RgrPT7d/pexels-romanp-34006.jpg",
+      "bikeDetails": {
+        "cc": 300,
+        "producer": "BMW",
+        "country": "Germany",
+        "mileage": "25 km/l",
+        "model": "G 310 R",
+        "fuelType": "Petrol",
+        "topSpeed": "160 km/h"
+      }
+    },
+    {
+      "id": 8,
+      "bikeName": "Suzuki Hayate",
+      "price": 900,
+      "image": "https://i.ibb.co.com/yXMFcnB/pexels-loifotos-2044871.jpg",
+      "bikeDetails": {
+        "cc": 110,
+        "producer": "Suzuki",
+        "country": "Japan",
+        "mileage": "55 km/l",
+        "model": "Hayate",
+        "fuelType": "Petrol",
+        "topSpeed": "100 km/h"
+      }
+    },
+    {
+      "id": 9,
+      "bikeName": "Royal Enfield Interceptor 650",
+      "price": 2500,
+      "image": "https://i.ibb.co.com/yXMFcnB/pexels-loifotos-2044871.jpg",
+      "bikeDetails": {
+        "cc": 650,
+        "producer": "Royal Enfield",
+        "country": "India",
+        "mileage": "20 km/l",
+        "model": "Interceptor 650",
+        "fuelType": "Petrol",
+        "topSpeed": "170 km/h"
+      }
+    },
+    {
+      "id": 10,
+      "bikeName": "Honda CBR 1000RR",
+      "price": 3500,
+      "image": "https://i.ibb.co.com/yXMFcnB/pexels-loifotos-2044871.jpg",
+      "bikeDetails": {
+        "cc": 1000,
+        "producer": "Honda",
+        "country": "Japan",
+        "mileage": "18 km/l",
+        "model": "CBR 1000RR",
+        "fuelType": "Petrol",
+        "topSpeed": "299 km/h"
+      }
+    }
+  ]
+  
