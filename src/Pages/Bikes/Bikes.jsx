@@ -15,14 +15,14 @@ const Bikes = () => {
             <h1 className="text-5xl text-center font-bold mb-10">Bike You Must Like </h1>
             <div className="grid grid-cols-2 gap-4">
                 {
-                    bikes.map(bike => <div className="border rounded space-y-4" key={bike.id}>
+                    bikes.map(bike => <div className="border rounded space-y-4 flex flex-col" key={bike.id}>
                         <div>
                             <div className="flex items-center justify-center mt-2">
                                 <img className="w-[250px] h-[300px]" src={bike.image} alt="" />
                             </div>
                         </div>
                         <p className="px-4 font-bold text-2xl ">{bike.bikeName}</p>
-                        <div className="px-4 flex justify-between">
+                        <div className="px-4 flex justify-between flex-grow">
                             <p>Price : {bike.price}</p>
                             <span className="text-2xl"><FaCartArrowDown /></span>
                         </div>

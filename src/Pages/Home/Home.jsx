@@ -11,7 +11,7 @@ const Home = () => {
             
             <h1></h1>
             <div className="grid grid-cols-4">
-                <div className="grid col-span-3 border mt-10 ">
+                <div className="grid col-span-3  mt-10 ">
                 <Bikes></Bikes>
                 </div>
                 <div className="grid col-span-1">
